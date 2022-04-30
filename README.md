@@ -9,7 +9,7 @@
 
 - 🌱 Actualmente** Full Stack Mern **
 
-- 👯 Busco colaborar en [barbershop](https://github.com/leandrogomez28/barbershop.git)
+- 👯 Colabore en [barbershop](https://github.com/leandrogomez28/barbershop.git)
 
 - 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/yohannavrojo](https://github.com/yohannavrojo)
 
