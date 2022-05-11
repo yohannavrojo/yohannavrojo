@@ -15,7 +15,7 @@
 - 📫 Cómo contactarme **yohavale7883@gmail.com**
 
 - ⚡ Idiomas y herramientas
-     <p align="left">Javascritp<br/>Css<br/>HTML<br/>Reactjs<br/>Nodejs<br/>MongoDB<br/>Express<br/>Boostrap<br/>Materialze</br>  </p>
+     <p align="left">Javascritp<br/>Css<br/>HTML<br/>Reactjs<br/>Nodejs<br/>MongoDB<br/>Express<br/>Bootstrap<br/>Materialze</br>  </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yohannavrojo&show_icons=true&locale=en&layout=compact" alt="yohannavrojo" /> </p>
 <br/>
