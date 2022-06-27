@@ -4,9 +4,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yohannavrojo&label=Profile%20views&color=0e75b6&style=flat" alt="yohannavrojo" /> </p>
 
 
-- 🔭 Actualmente estoy trabajando en [myTineraryFull](https://github.com/yohannavrojo/myTineraryFull.git)
+- 🔭 Actualmente estoy trabajando en [Cine](https://github.com/yohannavrojo/myTineraryFull.git)
 
-- 🌱 Actualmente** Full Stack Mern **
+- 🌱 Actualmente** Full Stack **
 
 - 👯 Colabore en [barbershop](https://github.com/leandrogomez28/barbershop.git)
 
