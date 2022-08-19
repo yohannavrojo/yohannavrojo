@@ -1,11 +1,11 @@
 
-![Esta es una imagen](https://myoctocat.com/assets/images/base-octocat.svg) 
+
  
 
 <h1 align="center">Hola 👋, soy Yohanna rojo</h1>
 <h3 align="center">A passionate frontend and backend developer</h3>
-<!-- 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yohannavrojo&label=Profile%20views&color=0e75b6&style=flat" alt="yohannavrojo" /> </p> -->
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yohannavrojo&label=Profile%20views&color=0e75b6&style=flat" alt="yohannavrojo" /> </p> 
 
 
 - 🌱 Actualmente** Developer Full Stack **
