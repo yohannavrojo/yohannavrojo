@@ -20,9 +20,7 @@
 - ⚡ Idiomas y herramientas
      <p align="left">JAVASCRIPT<br/>CSS<br/>HTML<br/>Reactjs<br/>Nodejs<br/>MongoDB<br/>EXPRESS<br/>BOOTSTRAP<br/>MATERIALIZE</br>  </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yohannavrojo&show_icons=true&locale=en&layout=compact" alt="yohannavrojo" /> </p>
-<br/>
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=yohannavrojo&show_icons=true&locale=en" alt="yohannavrojo" /> </p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yohannavrojo&" alt="yohannavrojo" /></p>
 
