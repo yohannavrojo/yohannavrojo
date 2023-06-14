@@ -3,15 +3,17 @@
  
 
 <h1 align="center">Hola 👋, soy Yohanna rojo</h1>
-<h3 align="center">A passionate frontend and backend developer</h3>
+<h3 align="center"> Programmer focused on frontend development and passionate about UX/UI design</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yohannavrojo&label=Profile%20views&color=0e75b6&style=flat" alt="yohannavrojo" /> </p> 
 
 
 - 🌱 Actualmente** Developer Full Stack **
 
-- 👯 Colabore en [barbershop](https://github.com/leandrogomez28/barbershop.git)
-                 [drd4](https://github.com/yohannavrojo/drd4.git)
+- 👯 Colabore en [web-cinema](https://github.com/yohannavrojo/Web-Cinema)
+-               [Amazing-events](https://github.com/yohannavrojo/Amazing-events_Rojo)
+-            
+                
 
 - 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/yohannavrojo](https://github.com/yohannavrojo)
 
