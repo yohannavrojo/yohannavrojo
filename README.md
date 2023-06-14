@@ -10,12 +10,11 @@
 
 - 🌱 Actualmente** Developer Full Stack **
 
-- 👯 Colabore en [web-cinema](https://github.com/yohannavrojo/Web-Cinema)
--               [Amazing-events](https://github.com/yohannavrojo/Amazing-events_Rojo)
--            
+- 👯 Colabore en [https://github.com/yohannavrojo/Web-Cinema](https://github.com/yohannavrojo/Web-Cinema) </br>-[https://github.com/yohannavrojo/Amazing-events_Rojo](https://github.com/yohannavrojo/Amazing-events_Rojo)
+         
                 
 
-- 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/yohannavrojo](https://github.com/yohannavrojo)
+- 👨‍💻 Todos mis proyectos están disponibles en [https://github.com/yohannavrojo](https://github.com/yohannavrojo) </br> -[https://www.behance.net/karojo](https://www.behance.net/karojo) </br> -[https://dribbble.com/yoharojo](https://dribbble.com/yoharojo)
 
 - 📫 Cómo contactarme **yohavale7883@gmail.com**
 
